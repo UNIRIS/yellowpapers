@@ -8,7 +8,7 @@ In those papers, you will find a explaination how to :
 - provide governance integrating community as whole
 - offer universal, tamper-proof risk-free human machine interaction system
 
-## 5 publications == 5 seasons:
+## Publications through seasons:
 - Season 1: A truly decentralized and limitless network
 - Season 2: Application anchored in real life (Coming Soon)
 - Season 3: Goverancne and Economic System tailored for humanity (Coming soon)
