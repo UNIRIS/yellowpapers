@@ -11,7 +11,7 @@ In those papers, you will find a explaination how to :
 ## Publications through seasons:
 - Season 1: A truly decentralized and limitless network
 - Season 2: Application anchored in real life (Coming Soon)
-- Season 3: Goverancne and Economic System tailored for humanity (Coming soon)
+- Season 3: Governance and Economic System tailored for humanity (Coming soon)
 - Season 4: Universal and Truly Decentralized Identification (Coming in 2020)
 - Season 5: Augmented Human (Coming in 2020)
 
